@@ -1,4 +1,5 @@
 // Создание объекта Корзины
+// eslint-disable-next-line no-unused-vars
 const shoppingCart = {
   items: [],
   total: 0,
