@@ -36,3 +36,4 @@ const shoppingCart = {
     this.total = 0;
   }
 };
+
